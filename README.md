@@ -1,5 +1,5 @@
 # LoAssist
-Hotkey Assistant for LoA v0.6.3
+Hotkey Assistant for LoA v0.6.3b
 
 Currently LoAssist aka LoA Assist is a small hotkey program to tide players over till the client offers better keybinding support.
 You can bind any command usable in the "/custom window" to a key of your choice without taking up a hotbar slot.
@@ -11,13 +11,5 @@ You can bind any command usable in the "/custom window" to a key of your choice 
 
 Join our discord https://discord.gg/QgS7RTE to report bugs or request features.
 ![alt text][logo]
-
-[logo]: https://image.frl/i/ppz46m6w9f2iv65g.JPG "Sample Shot"
-
-
-## List of keyboard key names.
-## For example CTRL is actually LControlKey or "RControlKey"
-## Complete list available at https://msdn.microsoft.com/en-us/library/system.windows.forms.keys(v=vs.110).aspx
-
-
+[logo]: https://image.frl/i/6stk99a21x968dlu.JPG "Sample Shot"
 
