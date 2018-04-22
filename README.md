@@ -10,6 +10,7 @@ You can bind any command usable in the "/custom window" to a key of your choice 
 ## Using this assistant you are breaking those Terms of Use.
 
 Join our discord https://discord.gg/QgS7RTE to report bugs or request features.
-![alt text][logo]
-[logo]: https://image.frl/i/6stk99a21x968dlu.JPG "Sample Shot"
+![Sample](https://image.frl/i/6stk99a21x968dlu.JPG)
+
+
 
