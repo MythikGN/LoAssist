@@ -1,5 +1,8 @@
 # LoAssist
-Hotkey Assistant for LoA v0.6.3b
+Hotkey Assistant for LoA v0.6.4
+
+
+### PLEASE DOWNLOAD FROM RELEASES TAB FOR NEWEST RELEASE 1.5.4 currently.
 
 Currently LoAssist aka LoA Assist is a small hotkey program to tide players over till the client offers better keybinding support.
 You can bind any command usable in the "/custom window" to a key of your choice without taking up a hotbar slot.
